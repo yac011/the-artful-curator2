@@ -1,0 +1,5 @@
+{
+  "name": "The Artful Curator",
+  "description": "A thematic art gallery generator that displays public domain artworks from the Art Institute of Chicago's collection.",
+  "requestFramePermissions": []
+}
